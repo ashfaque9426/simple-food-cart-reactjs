@@ -1,0 +1,27 @@
+.articleStyles {
+    border: 1px solid moccasin;
+    padding: 15px;
+}
+
+.articleStyles figure {
+    margin: 0;
+}
+
+.articleStyles figure img {
+    width: 100%;
+    object-fit: cover;
+}
+
+.articleStyles section {
+    margin-top: 35px;
+}
+
+.btn-cart {
+    margin-top: 15px;
+    border: 1px solid moccasin;
+}
+
+.btn-cart:hover {
+    background-color: moccasin;
+    color: black;
+}

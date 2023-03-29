@@ -1,0 +1,21 @@
+.cart-styles {
+    position: sticky;
+    top: 0;
+    height: 100vh;
+    border: 1px solid moccasin;
+    background-color: rgba(72, 55, 29, 0.3);
+    padding: 10px;
+}
+
+.unstyled {
+    list-style-type: none;
+}
+
+.ul-styles {
+    margin-left: -33px;
+}
+
+.cart button:hover {
+    background-color: antiquewhite;
+    color: black;
+}
